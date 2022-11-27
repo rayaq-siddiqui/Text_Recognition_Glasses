@@ -1,4 +1,4 @@
-# Policy 71
+# Text Recognition Glasses
 
 Shady Assistant - Wearable Text Recognition/Translation Technology
 
